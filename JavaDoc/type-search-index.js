@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"org.example.services","l":"Dijkstra"},{"p":"org.example.exceptions","l":"ErrorHandler"},{"p":"org.example","l":"Launcher"},{"p":"org.example.services","l":"Matrix"},{"p":"org.example.front","l":"SubwayApp"}];updateSearchResults();

@@ -1,0 +1,225 @@
+11:38:48.270 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начать запуск программы.
+11:38:48.272 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+11:38:48.279 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Названия станций успешно считаны.
+11:38:48.280 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Количество станций успешно инициализировано.
+11:38:48.286 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Данные о расстояниях успешно загружены.
+11:38:48.287 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Матрица смежности успешно создана.
+11:38:48.287 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Данные метрополитена загружены успешно.
+11:38:48.321 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Файл с изображением найден.
+11:38:48.806 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Программа успешно запущена
+11:39:04.340 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Начат поиск станции СПАССКАЯ
+11:39:04.341 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - индекс станци СПАССКАЯ успешно найден
+11:39:04.341 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Начат поиск станции УЛИЦА ДЫБЕНКО
+11:39:04.341 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - индекс станци УЛИЦА ДЫБЕНКО успешно найден
+11:39:04.341 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Данные о станциях успешно получены и перенаправлены на обработку.
+11:39:04.350 [org.example.services.Dijkstra] [JavaFX Application Thread] INFO  org.example.services.Dijkstra - Начат поиск минимального расстояния.
+11:39:04.350 [org.example.services.Dijkstra] [JavaFX Application Thread] INFO  org.example.services.Dijkstra - Начало инициализации расстояний
+11:39:04.350 [org.example.services.Dijkstra] [JavaFX Application Thread] INFO  org.example.services.Dijkstra - Расстояния успешно инициализированны
+11:39:04.352 [org.example.services.Dijkstra] [JavaFX Application Thread] INFO  org.example.services.Dijkstra - Минимальное расстояние найдено и перенаправлено.
+11:39:04.353 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Минимальное расстояние получено.
+11:39:05.686 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Поле 'станция прибытия' успешно очищена
+11:45:22.120 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начать запуск программы.
+11:45:22.123 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+11:45:22.130 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Названия станций успешно считаны.
+11:45:22.130 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Количество станций успешно инициализировано.
+11:45:22.136 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Данные о расстояниях успешно загружены.
+11:45:22.137 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Матрица смежности успешно создана.
+11:45:22.137 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Данные метрополитена загружены успешно.
+11:45:22.163 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Файл с изображением найден.
+11:45:22.597 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Программа успешно запущена
+11:45:26.816 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Начат поиск станции 6U55U
+11:45:26.816 [org.example.services.Matrix] [JavaFX Application Thread] ERROR org.example.services.Matrix - Станция 6U55U не найдена
+11:45:26.816 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Введены некорректные данные.
+11:45:47.674 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Начат поиск станции УЛИЦА ДЫБЕНКО
+11:45:47.674 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - индекс станци УЛИЦА ДЫБЕНКО успешно найден
+11:45:47.674 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Начат поиск станции КОМЕНДАНТСВКИЙ ПРОСПЕКТ
+11:45:47.674 [org.example.services.Matrix] [JavaFX Application Thread] ERROR org.example.services.Matrix - Станция КОМЕНДАНТСВКИЙ ПРОСПЕКТ не найдена
+11:45:47.674 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Введены некорректные данные.
+11:45:57.973 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Начат поиск станции УЛИЦА ДЫБЕНКО
+11:45:57.973 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - индекс станци УЛИЦА ДЫБЕНКО успешно найден
+11:45:57.973 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Начат поиск станции КОМЕНДАНТСКИЙ ПРОСПЕКТ
+11:45:57.973 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - индекс станци КОМЕНДАНТСКИЙ ПРОСПЕКТ успешно найден
+11:45:57.973 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Данные о станциях успешно получены и перенаправлены на обработку.
+11:45:57.974 [org.example.services.Dijkstra] [JavaFX Application Thread] INFO  org.example.services.Dijkstra - Начат поиск минимального расстояния.
+11:45:57.974 [org.example.services.Dijkstra] [JavaFX Application Thread] INFO  org.example.services.Dijkstra - Начало инициализации расстояний
+11:45:57.974 [org.example.services.Dijkstra] [JavaFX Application Thread] INFO  org.example.services.Dijkstra - Расстояния успешно инициализированны
+11:45:57.977 [org.example.services.Dijkstra] [JavaFX Application Thread] INFO  org.example.services.Dijkstra - Минимальное расстояние найдено и перенаправлено.
+11:45:57.977 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Минимальное расстояние получено.
+11:46:06.923 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Приложение успешно закрылось.
+11:49:26.634 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начать запуск программы.
+11:49:26.638 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+11:49:26.647 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Названия станций успешно считаны.
+11:49:26.647 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Количество станций успешно инициализировано.
+11:49:26.654 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Данные о расстояниях успешно загружены.
+11:49:26.654 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Матрица смежности успешно создана.
+11:49:26.654 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Данные метрополитена загружены успешно.
+11:49:26.688 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Файл с изображением найден.
+11:49:27.158 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Программа успешно запущена
+11:59:12.003 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начать запуск программы.
+11:59:12.006 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+11:59:12.015 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Названия станций успешно считаны.
+11:59:12.015 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Количество станций успешно инициализировано.
+11:59:12.022 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Данные о расстояниях успешно загружены.
+11:59:12.022 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Матрица смежности успешно создана.
+11:59:12.022 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Данные метрополитена загружены успешно.
+11:59:12.057 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Файл с изображением найден.
+11:59:12.525 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Программа успешно запущена
+12:32:55.977 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начать запуск программы.
+12:32:55.980 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+12:32:55.988 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Названия станций успешно считаны.
+12:32:55.988 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Количество станций успешно инициализировано.
+12:32:55.994 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Данные о расстояниях успешно загружены.
+12:32:55.994 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Матрица смежности успешно создана.
+12:32:55.994 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Данные метрополитена загружены успешно.
+12:32:56.021 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Файл с изображением найден.
+12:32:56.470 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Программа успешно запущена
+12:32:59.939 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Начат поиск станции VYUYUIUYK,
+12:32:59.939 [org.example.services.Matrix] [JavaFX Application Thread] ERROR org.example.services.Matrix - Станция VYUYUIUYK, не найдена
+12:32:59.939 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Введены некорректные данные.
+13:33:24.157 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начать запуск программы.
+13:33:24.163 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+13:33:24.178 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Названия станций успешно считаны.
+13:33:24.178 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Количество станций успешно инициализировано.
+13:33:24.189 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Данные о расстояниях успешно загружены.
+13:33:24.190 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Матрица смежности успешно создана.
+13:33:24.190 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Данные метрополитена загружены успешно.
+13:33:24.234 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Файл с изображением найден.
+13:33:24.939 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Программа успешно запущена
+13:35:08.295 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начать запуск программы.
+13:35:08.300 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+13:35:10.587 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начать запуск программы.
+13:35:10.591 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+13:35:13.364 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+19:13:46.641 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начать запуск программы.
+19:13:46.645 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+19:13:51.646 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+19:15:42.513 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начать запуск программы.
+19:15:42.516 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+19:15:44.378 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+19:16:49.023 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начать запуск программы.
+19:16:49.025 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+19:16:50.575 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+19:17:57.607 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начать запуск программы.
+19:17:57.610 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+19:17:57.615 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Названия станций успешно считаны.
+19:17:57.615 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Количество станций успешно инициализировано.
+19:17:57.619 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Данные о расстояниях успешно загружены.
+19:17:57.619 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Матрица смежности успешно создана.
+19:17:57.620 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Данные метрополитена загружены успешно.
+19:17:57.640 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Файл с изображением найден.
+19:18:03.387 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Файл с изображением не найден.
+19:18:03.489 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Программа успешно запущена
+19:18:08.768 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Начат поиск станции ASD
+19:18:08.768 [org.example.services.Matrix] [JavaFX Application Thread] ERROR org.example.services.Matrix - Станция ASD не найдена
+19:18:08.768 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Введены некорректные данные.
+19:18:22.644 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Начат поиск станции УЛИЦА ДЫБЕНКО
+19:18:22.644 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - индекс станции УЛИЦА ДЫБЕНКО успешно найден
+19:18:22.644 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Начат поиск станции СПАССКАЯ
+19:18:22.645 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - индекс станции СПАССКАЯ успешно найден
+19:18:22.645 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Данные о станциях успешно получены и перенаправлены на обработку.
+19:18:22.645 [org.example.services.Dijkstra] [JavaFX Application Thread] INFO  org.example.services.Dijkstra - Начат поиск минимального расстояния.
+19:18:22.646 [org.example.services.Dijkstra] [JavaFX Application Thread] INFO  org.example.services.Dijkstra - Начало инициализации расстояний
+19:18:22.646 [org.example.services.Dijkstra] [JavaFX Application Thread] INFO  org.example.services.Dijkstra - Расстояния успешно инициализированы
+19:18:22.648 [org.example.services.Dijkstra] [JavaFX Application Thread] INFO  org.example.services.Dijkstra - Минимальное расстояние найдено и перенаправлено.
+19:18:22.649 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Минимальное расстояние получено.
+19:18:24.586 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Приложение успешно закрылось.
+19:18:42.779 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начать запуск программы.
+19:18:42.782 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+19:18:44.530 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+19:19:04.075 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начать запуск программы.
+19:19:04.077 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+19:19:08.637 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+19:27:11.606 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+19:27:11.609 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+19:27:17.319 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+19:47:48.546 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+19:47:48.550 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+19:47:55.102 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+19:48:22.861 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+19:48:22.863 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+19:48:26.622 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+19:48:56.360 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+19:48:56.362 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+19:48:58.580 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+20:14:02.907 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+20:14:02.913 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+20:15:39.678 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+20:15:39.680 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+20:15:42.403 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+20:15:51.517 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+20:15:51.519 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+20:15:58.823 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+20:16:12.632 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+20:16:12.634 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+20:16:22.762 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+20:17:28.624 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+20:17:28.627 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+20:17:30.992 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+20:18:05.696 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+20:18:05.698 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+20:18:07.561 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+20:19:07.857 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+20:19:07.859 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+20:19:09.413 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+20:21:04.339 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+20:21:04.342 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+20:21:06.959 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+20:29:32.341 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+20:29:32.343 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+20:29:34.039 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+20:33:05.356 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+20:33:05.359 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+20:33:13.495 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+20:35:03.291 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+20:49:19.536 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+20:49:19.538 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+20:49:22.599 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+20:51:14.962 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+20:51:14.965 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+20:51:14.977 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Названия станций успешно считаны.
+20:51:14.977 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Количество станций успешно инициализировано.
+20:51:17.764 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+20:51:32.548 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+20:51:32.551 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+20:51:32.560 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Названия станций успешно считаны.
+20:51:32.560 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Количество станций успешно инициализировано.
+20:51:32.569 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Данные о расстояниях успешно загружены.
+20:51:32.569 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Матрица смежности успешно создана.
+20:51:32.569 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Данные метрополитена загружены успешно.
+20:51:32.596 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Файл с изображением найден.
+20:51:34.362 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Файл с изображением не найден.
+20:51:34.491 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Программа успешно запущена
+20:51:46.762 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Начат поиск станции СПАССКАЯ
+20:51:46.762 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - индекс станции СПАССКАЯ успешно найден
+20:51:46.763 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Начат поиск станции УЛИЦА ДЫБЕНКО
+20:51:46.763 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - индекс станции УЛИЦА ДЫБЕНКО успешно найден
+20:51:46.763 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Данные о станциях успешно получены и перенаправлены на обработку.
+20:51:46.764 [org.example.services.Dijkstra] [JavaFX Application Thread] INFO  org.example.services.Dijkstra - Начат поиск минимального расстояния.
+20:51:46.764 [org.example.services.Dijkstra] [JavaFX Application Thread] INFO  org.example.services.Dijkstra - Начало инициализации расстояний
+20:51:46.764 [org.example.services.Dijkstra] [JavaFX Application Thread] INFO  org.example.services.Dijkstra - Расстояния успешно инициализированы
+20:51:46.766 [org.example.services.Dijkstra] [JavaFX Application Thread] INFO  org.example.services.Dijkstra - Минимальное расстояние найдено и перенаправлено.
+20:51:46.766 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Минимальное расстояние получено.
+20:51:47.663 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Приложение успешно закрылось.
+20:53:25.641 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+20:53:25.644 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+20:53:25.651 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Названия станций успешно считаны.
+20:53:25.651 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Количество станций успешно инициализировано.
+20:53:25.658 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Данные о расстояниях успешно загружены.
+20:53:25.658 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Матрица смежности успешно создана.
+20:53:25.659 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Данные метрополитена загружены успешно.
+20:53:25.685 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Файл с изображением найден.
+20:53:26.129 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Программа успешно запущена
+20:53:30.694 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Приложение успешно закрылось.
+20:59:55.430 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+20:59:55.434 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+20:59:59.145 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+22:09:54.238 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+22:09:54.242 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+22:09:54.242 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - null
+22:11:32.823 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+22:11:32.825 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+22:11:32.826 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - java.io.BufferedInputStream@2f98d2b8
+22:17:00.515 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+22:17:00.518 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+22:17:00.526 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Названия станций успешно считаны.
+22:17:00.526 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Количество станций успешно инициализировано.
